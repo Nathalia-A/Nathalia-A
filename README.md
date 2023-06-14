@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Nathalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathalia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>
+  <img align="center" alt="Nathalia-Figma" height ="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" >
 </div>
 
 ##
@@ -46,3 +46,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/nathaliaautra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliaautran" alt="nathaliaautran" /> </p>
 </div>
+0
