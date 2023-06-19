@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/Nathalia-A">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathalia-A&theme=dracula&show_icons=true" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia-A&theme=dracula&layout=compact" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliaautran&theme=dracula&show_icons=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaautran&theme=dracula&layout=compact" />  
 </a>
   
 </div>
